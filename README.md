@@ -1,0 +1,2 @@
+# teach.eazy
+MINI PROJECT
