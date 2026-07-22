@@ -1,2 +1,2 @@
 # teach.eazy
-MINI PROJECT
+academic side hustle, to score some brownie points.
